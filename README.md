@@ -1,3 +1,3 @@
 ## Baran Barış Yalçın
 
-**Bold** and _Italic_ and `Code` text
+**This** is _my_ `personal` website
